@@ -20,7 +20,7 @@ Boxes[3] = Holding register 40004
 ![Image2](https://github.com/user-attachments/assets/361960bc-0b23-4461-869e-6a44b2f1ec9a)
 The client reads the content of two holding registers beginning with the first register so in this case reads register 40001 and 40002.
 
-![Image3](https://github.com/user-attachments/assets/1921836e-439f-441e-909c-785592d5c358)
+![Image3](https://github.com/user-attachments/assets/323649c5-9828-4aed-96f8-92965759d95f)
 Coils 00001 - 00008 = Q0.0 - Q0.7 or alternatively M0.0 - M0.7
 
 Coils 00009 - 00016 = Q1.0 - Q1.7 or alternatively M1.0 - M1.7
