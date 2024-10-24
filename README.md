@@ -6,7 +6,7 @@ PLC instance in PLCSIM Advanced to simulate a Siemens 1500 PLC:
 ![image](https://github.com/user-attachments/assets/480f59c0-8b23-4e54-adf0-55a0884fca15)
 
 
-![Image1](https://github.com/user-attachments/assets/4f646b9f-85d1-4bb0-8666-a09f952e5465)
+![Image1](https://github.com/user-attachments/assets/7a17e817-cbea-4c8b-b9a9-91b030b3383b)
 In modbus communication the holding registers are from 40001 to 49999.
 The client writes value 17 into holding register 40002 that is the first element in the Boxes array.
 Boxes[0] = Holding register 40001
@@ -17,7 +17,7 @@ Boxes[2] = Holding register 40003
 
 Boxes[3] = Holding register 40004
 
-![Image2](https://github.com/user-attachments/assets/361960bc-0b23-4461-869e-6a44b2f1ec9a)
+![Image2](https://github.com/user-attachments/assets/a8da4496-4239-4725-ae14-cf3f2376fba0)
 The client reads the content of two holding registers beginning with the first register so in this case reads register 40001 and 40002.
 
 ![Image3](https://github.com/user-attachments/assets/323649c5-9828-4aed-96f8-92965759d95f)
