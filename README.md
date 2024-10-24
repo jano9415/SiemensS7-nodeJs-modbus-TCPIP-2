@@ -25,5 +25,9 @@ Coils 00001 - 00008 = Q0.0 - Q0.7 or alternatively M0.0 - M0.7
 
 Coils 00009 - 00016 = Q1.0 - Q1.7 or alternatively M1.0 - M1.7
 
+![Image4](https://github.com/user-attachments/assets/a1a10a18-6b43-4bea-9537-9d42ca89f46f)
+Client reads coils from Q0.0 to Q0.7 where Q0.0 is true and the others are false.
+
+
 
 
