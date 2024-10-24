@@ -9,3 +9,6 @@ PLC instance in PLCSIM Advanced to simulate a Siemens 1500 PLC:
 ![Image1](https://github.com/user-attachments/assets/4f646b9f-85d1-4bb0-8666-a09f952e5465)
 
 
+![Image2](https://github.com/user-attachments/assets/361960bc-0b23-4461-869e-6a44b2f1ec9a)
+
+
