@@ -10,8 +10,11 @@ PLC instance in PLCSIM Advanced to simulate a Siemens 1500 PLC:
 In modbus communication the holding registers are from 40001 to 49999.
 The client writes value 17 into holding register 40002 that is the first element in the Boxes array.
 Boxes[0] = Holding register 40001
+
 Boxes[1] = Holding register 40002
+
 Boxes[2] = Holding register 40003
+
 Boxes[3] = Holding register 40004
 
 ![Image2](https://github.com/user-attachments/assets/361960bc-0b23-4461-869e-6a44b2f1ec9a)
